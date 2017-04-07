@@ -5,7 +5,7 @@
 
 Exercício 1. Dê um exemplo, diferente do apresentado no início do capítulo, de redundância não controlada de dados.
 
-	Resposta: A redundância não controlada de dados é quando um arquivo que recebe o mesmo tipo de informação está em vários computadores mas não estão sincronizados. Um exemplo cotidiano que podemos dar é uma lista de compra. Imagine que a mãe faz uma lista de compra e o pai também e devido a uma discussão eles não "sincronizaram" suas listas. A bagunça está feita! Concerteza haverá repetição do arroz, feijão, tempero, açucar, etc. 
+	Resposta: A redundância não controlada de dados é quando um arquivo que recebe o mesmo tipo de informação está em vários computadores mas não estão sincronizados. Um exemplo cotidiano que podemos dar é uma lista de compra. Imagine que a mãe faz uma lista de compra e o pai também e devido a uma discussão eles não "sincronizaram" suas listas. A bagunça está feita! Com certeza haverá repetição do arroz, feijão, tempero, açucar, etc. 
 
 Exercício 2. Dê um exemplo, diferente do apresentado no início do capítulo, de redundância contralada de dados. Explique quais os benefícios que a redundância controlada de dados tem neste caso em específico.
 
